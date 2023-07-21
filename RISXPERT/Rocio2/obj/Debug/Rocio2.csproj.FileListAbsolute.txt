@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\bin\Debug\Rocio2.exe.config
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\bin\Debug\Rocio2.exe
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\bin\Debug\Rocio2.pdb
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\bin\Debug\Guna.UI.dll
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.FASE1.resources
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.Form1.resources
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.csproj.CopyComplete
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.exe
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.pdb
+C:\Users\User\OneDrive\Documentos\carlos\Esc\Rocio2\Rocio2\obj\Debug\Rocio2.FASE3.resources
